@@ -128,7 +128,7 @@ Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 5. Abra um Pull Request.
 
 ## 📽️ Demonstração em Vídeo
-- O vídeo de demonstração do projeto pode ser visualizado aqui: [Drive](https://drive.google.com/file/d/1IUb76yNS-3-cBh5DgnDbzbEdSQXPKAor/view?usp=sharing)
+- O vídeo de demonstração do projeto pode ser visualizado aqui: [Drive](https://drive.google.com/file/d/1LcwTsg2AsiAJPlvQJ6R4kndHqS9_Jhja/view?usp=sharing)
 
 ## 💡 Considerações Finais
 Este projeto demonstra a implementação de um sistema de controle de ocupação utilizando o Raspberry Pi Pico com FreeRTOS. O sistema é capaz de monitorar entrada e saída de pessoas, exibindo essas informações em um display OLED e acionando alertas visuais e sonoros quando limites são atingidos.
